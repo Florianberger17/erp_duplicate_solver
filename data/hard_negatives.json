@@ -1,0 +1,233 @@
+[
+  {
+    "kind": "dimension",
+    "members": [
+      "R-100014",
+      "R-100747"
+    ]
+  },
+  {
+    "kind": "dimension",
+    "members": [
+      "R-100088",
+      "R-100421"
+    ]
+  },
+  {
+    "kind": "dimension",
+    "members": [
+      "R-100160",
+      "R-100808"
+    ]
+  },
+  {
+    "kind": "dimension",
+    "members": [
+      "R-100174",
+      "R-100626"
+    ]
+  },
+  {
+    "kind": "dimension",
+    "members": [
+      "R-100252",
+      "R-100253"
+    ]
+  },
+  {
+    "kind": "dimension",
+    "members": [
+      "R-100285",
+      "R-100473"
+    ]
+  },
+  {
+    "kind": "dimension",
+    "members": [
+      "R-100302",
+      "R-100618"
+    ]
+  },
+  {
+    "kind": "dimension",
+    "members": [
+      "R-100335",
+      "R-100444"
+    ]
+  },
+  {
+    "kind": "dimension",
+    "members": [
+      "R-100438",
+      "R-100753"
+    ]
+  },
+  {
+    "kind": "dimension",
+    "members": [
+      "R-100484",
+      "R-100857"
+    ]
+  },
+  {
+    "kind": "dimension",
+    "members": [
+      "R-100500",
+      "R-100534"
+    ]
+  },
+  {
+    "kind": "dimension",
+    "members": [
+      "R-100566",
+      "R-100591"
+    ]
+  },
+  {
+    "kind": "dimension",
+    "members": [
+      "R-100605",
+      "R-100943"
+    ]
+  },
+  {
+    "kind": "dimension",
+    "members": [
+      "R-100653",
+      "R-100813"
+    ]
+  },
+  {
+    "kind": "dimension",
+    "members": [
+      "R-100875",
+      "R-100941"
+    ]
+  },
+  {
+    "kind": "material_surface",
+    "members": [
+      "R-100005",
+      "R-100587"
+    ]
+  },
+  {
+    "kind": "material_surface",
+    "members": [
+      "R-100034",
+      "R-100516"
+    ]
+  },
+  {
+    "kind": "material_surface",
+    "members": [
+      "R-100041",
+      "R-100481"
+    ]
+  },
+  {
+    "kind": "material_surface",
+    "members": [
+      "R-100045",
+      "R-100427"
+    ]
+  },
+  {
+    "kind": "material_surface",
+    "members": [
+      "R-100227",
+      "R-100949"
+    ]
+  },
+  {
+    "kind": "material_surface",
+    "members": [
+      "R-100403",
+      "R-100490"
+    ]
+  },
+  {
+    "kind": "material_surface",
+    "members": [
+      "R-100435",
+      "R-100543"
+    ]
+  },
+  {
+    "kind": "material_surface",
+    "members": [
+      "R-100751",
+      "R-100787"
+    ]
+  },
+  {
+    "kind": "material_surface",
+    "members": [
+      "R-100817",
+      "R-100829"
+    ]
+  },
+  {
+    "kind": "material_surface",
+    "members": [
+      "R-100871",
+      "R-100992"
+    ]
+  },
+  {
+    "kind": "material_type",
+    "members": [
+      "R-100012",
+      "R-100709"
+    ]
+  },
+  {
+    "kind": "material_type",
+    "members": [
+      "R-100085",
+      "R-100246"
+    ]
+  },
+  {
+    "kind": "material_type",
+    "members": [
+      "R-100135",
+      "R-100223"
+    ]
+  },
+  {
+    "kind": "material_type",
+    "members": [
+      "R-100416",
+      "R-100749"
+    ]
+  },
+  {
+    "kind": "material_type",
+    "members": [
+      "R-100463",
+      "R-100507"
+    ]
+  },
+  {
+    "kind": "material_type",
+    "members": [
+      "R-100571",
+      "R-100771"
+    ]
+  },
+  {
+    "kind": "material_type",
+    "members": [
+      "R-100713",
+      "R-100936"
+    ]
+  },
+  {
+    "kind": "material_type",
+    "members": [
+      "R-100888",
+      "R-100908"
+    ]
+  }
+]

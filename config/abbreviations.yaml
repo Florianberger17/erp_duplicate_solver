@@ -1,0 +1,34 @@
+# Abbreviation dictionary used by normalisation (spec 4.1, step 4).
+# Keys and values go through the same Unicode folding and lowercasing as the
+# descriptions, and keys are matched as whole words. So the key "hydr.-öl"
+# matches "Hydr.-Öl", "HYDR.-ÖL" and "hydr.-ol" alike.
+# The dictionary is deliberately incomplete, as real ones are: some
+# abbreviations in the test data are not listed here.
+
+verz.: verzinkt
+vz: verzinkt
+feuerverz.: feuerverzinkt
+fvz: feuerverzinkt
+edelst.: edelstahl
+schr.: schraube
+sechskantschr.: sechskantschraube
+zyl.-schr.: zylinderschraube
+6kt-mutter: sechskantmutter
+u-scheibe: unterlegscheibe
+kug.-hahn: kugelhahn
+ms: messing
+st.-rohr: stahlrohr
+rd.-stahl: rundstahl
+fl.-stahl: flachstahl
+schw.: schwarz
+kpl.: komplett
+rkl: rillenkugellager
+hydr.-öl: hydrauliköl
+dicht.: dichtung
+transp.: transparent
+gefr.: gefräst
+bearb.: bearbeitet
+bg: baugruppe
+antr.: antrieb
+getr.: getriebe
+geh.: gehäuse

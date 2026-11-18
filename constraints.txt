@@ -1,0 +1,12 @@
+# Pins for transitive dependencies with native extensions.
+#
+# Windows Smart App Control blocks native DLLs from very recent wheels until
+# they have built up reputation. These versions are a few months old and load
+# on a machine with Smart App Control enabled. They also make installs more
+# reproducible on any platform.
+#
+#   pip install -e ".[dev,anthropic,openai]" -c constraints.txt
+numpy==2.3.5
+xxhash==3.6.0
+regex==2026.7.19
+ormsgpack==1.12.2

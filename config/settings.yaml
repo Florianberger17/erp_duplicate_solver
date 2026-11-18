@@ -1,0 +1,31 @@
+blocking:
+  strategies: [exact_key, first_token, ann]
+  ann_top_k: 20
+
+scoring:
+  w_string: 0.4
+  w_embed: 0.35
+  w_attr: 0.25
+  dimension_veto_cap: 0.35
+  weight_tolerance_pct: 5
+
+# Starting values, not results: the recommended threshold is derived
+# from the threshold sweep in scripts/evaluate.py.
+thresholds:
+  high: 0.92
+  low: 0.70
+
+survivorship:
+  rules: [status_active, has_transactions, completeness, created_on, material_number]
+
+embeddings:
+  model: sentence-transformers/all-MiniLM-L6-v2
+  # Pinned model revision (Hugging Face commit). Changing the model or the
+  # revision changes every score and makes the README evaluation stale.
+  revision: null
+  cache: .cache/embeddings.parquet
+
+llm:
+  enabled: true
+  model: ${LLM_MODEL}
+  temperature: 0
